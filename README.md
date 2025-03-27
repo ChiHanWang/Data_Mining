@@ -1,2 +1,7 @@
 # Data_Mining
-The DM courses for the 113th academic year, first semester, NYCU
+### Data Visualization at National Yang Ming Chiao Tung University
+Lecturer: Prof. [Vincent S. Tseng](https://www.cs.nycu.edu.tw/members/detail/vtseng)
+
+### Assignments:
+
+- HW1: 
